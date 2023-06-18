@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 -- Database: `contact_db`
 --
 
--- --------------------------------------------------------
+-- 
 
 --
 -- Table structure for table `contact_form`
